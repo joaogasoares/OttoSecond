@@ -11,4 +11,4 @@ const sequelize = new Sequelize(
     }
 )
 
-module.exports = sequelize;https://github.com/joaogasoares/ItalianeseFirstTry.git
+module.exports = sequelize;
