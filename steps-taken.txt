@@ -1,0 +1,27 @@
+install dependencies:
+
+criar repositório
+
+npm i express pg sequelize nodemon
+
+create 4 dependencies:
+mkdir controllers
+      routes
+      util
+      models
+
+Iniciar npm:
+npm init -y
+
+abrir vscode: 
+code .  
+
+Criar database.js em util para ter a conexão postgres com DB.
+
+Criar user.js em models para ter uma table de usuários
+
+Criar o users.js no controllers para definir as funções CRUD Controllers
+
+Criar o users.js em routes
+
+Criar o index.js
