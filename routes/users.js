@@ -7,3 +7,5 @@ router.get('/userId', controller.getUser); // /users/:userId
 router.post('/', controlller.createUser); // /users
 router.put('/:userId', controller.updateUser); // /users/:userId
 router.put('/:userId', controller.deleteUserUser); // /users/:userId
+
+module.exports = router;
